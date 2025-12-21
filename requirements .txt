@@ -1,0 +1,8 @@
+These are the libraies used:
+
+pandas==2.2.2 #Data manipulation libraries
+numpy==1.26.4 #numerical computations
+matplotlib==3.8.4 #graphical visualisations
+seaborn==0.13.2 #statistical data visualisations 
+scikit-learn==1.4.2 #ML models and their evaluation tools
+joblib==1.4.2 #To save ML models
