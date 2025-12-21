@@ -61,4 +61,4 @@ Upon evaluating the models on the unseen test set, tree-based ensemble methods y
 
 ## 👤 Author
 **Mohamed Shaz Pathiattu Valappil**
-[cite_start]MSc Information Systems, University College Dublin (UCD)[cite: 1].
+MSc Information Systems, University College Dublin (UCD).
