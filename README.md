@@ -1,6 +1,6 @@
 # Bank Term Deposit Prediction 💰
 
-This project utilizes supervised machine learning techniques to predict whether a client will subscribe to a bank term deposit. [cite_start]Built using the **Bank Marketing Dataset** from the UCI Machine Learning Repository, the project explores various classification algorithms, feature engineering techniques, and hyperparameter tuning to optimize prediction accuracy[cite: 1].
+This project utilizes supervised machine learning techniques to predict whether a client will subscribe to a bank term deposit. Built using the **Bank Marketing Dataset** from the UCI Machine Learning Repository, the project explores various classification algorithms, feature engineering techniques, and hyperparameter tuning to optimize prediction accuracy.
 
 ## 📌 Project Overview
 * **Goal:** Predict the binary target variable `deposit` (yes/no) based on client demographics and campaign data.
